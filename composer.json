@@ -1,0 +1,19 @@
+{
+    "name": "app/gestion-correction",
+    "description": "Application de gestions de corrections",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\GestionCorrection\\": "src/",
+            "config\\": "config/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Radji Mohamed",
+            "email": "radjimohamed013@gmail.com"
+        }
+    ],
+    "require": {}
+}
