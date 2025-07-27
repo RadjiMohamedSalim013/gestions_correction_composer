@@ -4,9 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "App\\GestionCorrection\\": "src/",
-            "config\\": "config/"
-
+            "App\\": "src/",
+            "Config\\": "config/"
         }
     },
     "authors": [
